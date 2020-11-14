@@ -1,6 +1,12 @@
+---
+description: >-
+  Focus on one small WHAT for number as float type; And do a full function with
+  all three core types.
+---
+
 # Working with Numbers, Strings & Booleans
 
-### WHAT
+### WHAT - number as float type
 
 * Number by default are all `float` type
 

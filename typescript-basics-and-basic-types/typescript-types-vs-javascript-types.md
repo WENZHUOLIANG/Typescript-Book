@@ -1,3 +1,9 @@
+---
+description: >-
+  Focus on the WHY - Javascript does type assignment and checking in runtime
+  while Typescript does that in static time.
+---
+
 # Typescript Types vs Javascript Types
 
 ### WHY - The comparison between JS and TS explains
