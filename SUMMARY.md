@@ -19,3 +19,7 @@
 * [Literal Types](typescript-basics-and-basic-types/literal-types.md)
 * [Type Aliases / Custom Types](typescript-basics-and-basic-types/type-aliases-custom-types.md)
 
+---
+
+* [Function Return Type & 'void'](function-return-type-and-void.md)
+
