@@ -11,3 +11,7 @@
 * [Type Assignment & Type Inference](typescript-basics-and-basic-types/type-assignment-and-type-inference.md)
 * [Object Types](typescript-basics-and-basic-types/object-types.md)
 
+---
+
+* [Nested Objects & Types](nested-objects-and-types.md)
+
