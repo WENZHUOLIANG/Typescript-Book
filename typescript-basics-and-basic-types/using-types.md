@@ -7,8 +7,6 @@ description: >-
 
 # Using Types
 
-
-
 ### WHAT core types Typescript and Javascript both supports
 
 Typescript provides many types to Javascript. Compared to Javascript,
