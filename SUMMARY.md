@@ -16,9 +16,6 @@
 * [Working with Enums](typescript-basics-and-basic-types/working-with-enums.md)
 * [The 'any' Type](typescript-basics-and-basic-types/the-any-type.md)
 * [Union Types](typescript-basics-and-basic-types/union-types.md)
-
----
-
-* [Literal Types](literal-types.md)
-* [Type Aliases / Custom Types](type-aliases-custom-types.md)
+* [Literal Types](typescript-basics-and-basic-types/literal-types.md)
+* [Type Aliases / Custom Types](typescript-basics-and-basic-types/type-aliases-custom-types.md)
 
