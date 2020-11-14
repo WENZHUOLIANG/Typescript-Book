@@ -15,8 +15,9 @@
 * [Working with Tuples](typescript-basics-and-basic-types/working-with-tuples.md)
 * [Working with Enums](typescript-basics-and-basic-types/working-with-enums.md)
 * [The 'any' Type](typescript-basics-and-basic-types/the-any-type.md)
+* [Union Types](typescript-basics-and-basic-types/union-types.md)
 
 ---
 
-* [Union Types](union-types.md)
+* [Literal Types](literal-types.md)
 
