@@ -9,4 +9,5 @@
 * [Typescript Types vs Javascript Types](typescript-basics-and-basic-types/typescript-types-vs-javascript-types.md)
 * [Working with Numbers, Strings & Booleans](typescript-basics-and-basic-types/working-with-numbers-strings-and-booleans.md)
 * [Type Assignment & Type Inference](typescript-basics-and-basic-types/type-assignment-and-type-inference.md)
+* [Object Types](typescript-basics-and-basic-types/object-types.md)
 
