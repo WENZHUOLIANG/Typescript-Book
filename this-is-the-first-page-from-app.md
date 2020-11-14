@@ -1,3 +1,2 @@
-# This is the first Page from App
+# Typescript Basics & Basic Types
 
-# add some contents from local
