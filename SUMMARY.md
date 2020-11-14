@@ -12,4 +12,5 @@
 * [Object Types](typescript-basics-and-basic-types/object-types.md)
 * [Nested Objects & Types](typescript-basics-and-basic-types/nested-objects-and-types.md)
 * [Arrays Types](typescript-basics-and-basic-types/arrays-types.md)
+* [Working with Tuples](typescript-basics-and-basic-types/working-with-tuples.md)
 
