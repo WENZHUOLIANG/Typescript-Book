@@ -20,8 +20,5 @@
 * [Type Aliases / Custom Types](typescript-basics-and-basic-types/type-aliases-custom-types.md)
 * [Function Return Type & 'void'](typescript-basics-and-basic-types/function-return-type-and-void.md)
 * [Functions as Types](typescript-basics-and-basic-types/functions-as-types.md)
-
----
-
-* [Function Types & Callbacks](function-types-and-callbacks.md)
+* [Function Types & Callbacks](typescript-basics-and-basic-types/function-types-and-callbacks.md)
 
