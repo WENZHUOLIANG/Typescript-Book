@@ -20,4 +20,5 @@
 ---
 
 * [Literal Types](literal-types.md)
+* [Type Aliases / Custom Types](type-aliases-custom-types.md)
 
