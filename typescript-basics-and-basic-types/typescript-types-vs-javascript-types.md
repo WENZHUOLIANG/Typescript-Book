@@ -1,6 +1,6 @@
 # Typescript Types vs Javascript Types
 
-WHY - The comparison between JS and TS explains
+### WHY - The comparison between JS and TS explains
 
 ```typescript
 function add(n1: number, n2: number) {
