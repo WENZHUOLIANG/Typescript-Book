@@ -14,3 +14,7 @@
 * [Arrays Types](typescript-basics-and-basic-types/arrays-types.md)
 * [Working with Tuples](typescript-basics-and-basic-types/working-with-tuples.md)
 
+---
+
+* [Working with Enums](working-with-enums.md)
+

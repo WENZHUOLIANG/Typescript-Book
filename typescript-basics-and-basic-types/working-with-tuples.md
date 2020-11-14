@@ -2,8 +2,9 @@
 
 ### WHAT - what is turples type
 
-| **number** | 1, 5.4, -10 | All numbers, no differentiation between integers or floats |
+| **type** | example | description |
 | :--- | :--- | :--- |
+| **number** | 1, 5.4, -10 | All numbers, no differentiation between integers or floats |
 | **string** | 'Hi', "Hi",  \`\` | All text values. |
 | **boolean** | true, false | Just these two, no "truthy" or "falsy" values |
 | **object**  | {age: 30} | Any Javascript object, more specific types {type of object} are possible |
