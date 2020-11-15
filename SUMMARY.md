@@ -27,3 +27,7 @@
 * [Module Introduction](the-typescript-compiler-and-its-configuration/module-introduction.md)
 * [Using "Watch Mode"](the-typescript-compiler-and-its-configuration/using-watch-mode.md)
 
+---
+
+* [Compiling the Entire Project / Multiple Files](compiling-the-entire-project-multiple-files.md)
+
