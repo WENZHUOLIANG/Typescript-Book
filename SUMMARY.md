@@ -25,4 +25,5 @@
 ## The Typescript Compiler \(and its Configuration\)
 
 * [Module Introduction](the-typescript-compiler-and-its-configuration/module-introduction.md)
+* [Using "Watch Mode"](the-typescript-compiler-and-its-configuration/using-watch-mode.md)
 
