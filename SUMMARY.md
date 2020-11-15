@@ -22,3 +22,7 @@
 * [Functions as Types](typescript-basics-and-basic-types/functions-as-types.md)
 * [Function Types & Callbacks](typescript-basics-and-basic-types/function-types-and-callbacks.md)
 
+## The Typescript Compiler \(and its Configuration\)
+
+* [Module Introduction](the-typescript-compiler-and-its-configuration/module-introduction.md)
+
