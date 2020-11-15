@@ -27,8 +27,6 @@
 * [Module Introduction](the-typescript-compiler-and-its-configuration/module-introduction.md)
 * [Using "Watch Mode"](the-typescript-compiler-and-its-configuration/using-watch-mode.md)
 * [Compiling the Entire Project / Multiple Files](the-typescript-compiler-and-its-configuration/compiling-the-entire-project-multiple-files.md)
-
----
-
-* [Including & Excluding Files](including-and-excluding-files.md)
+* [Including & Excluding Files](the-typescript-compiler-and-its-configuration/including-and-excluding-files.md)
+* [Setting a Compilation Target](the-typescript-compiler-and-its-configuration/setting-a-compilation-target.md)
 
