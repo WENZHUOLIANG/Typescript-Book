@@ -30,9 +30,10 @@
 * [Including & Excluding Files](the-typescript-compiler-and-its-configuration/including-and-excluding-files.md)
 * [Setting a Compilation Target](the-typescript-compiler-and-its-configuration/setting-a-compilation-target.md)
 * [Understanding Typescript Core Libs](the-typescript-compiler-and-its-configuration/understanding-typescript-core-libs.md)
+* [More Configuration & Compilation Options](the-typescript-compiler-and-its-configuration/more-configuration-and-compilation-options.md)
+* [Working with Source Maps](the-typescript-compiler-and-its-configuration/working-with-source-maps.md)
 
 ---
 
-* [More Configuration & Compilation Options](more-configuration-and-compilation-options.md)
-* [Working with Source Maps](working-with-source-maps.md)
+* [rootDir and outDir](rootdir-and-outdir.md)
 

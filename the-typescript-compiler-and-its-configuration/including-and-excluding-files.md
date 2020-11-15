@@ -7,7 +7,7 @@ Add `"exclude": ["analytics.ts"]` in the `tsconfig.json`, we can exclude the fil
 * `"**/*.dev.ts"`
 * `"node_modules"` //_this would be default, if you don't add this, this will be excluded automatically_
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 `include` will be the opposite, but the total will be the `include` minus the `exclude`
 
