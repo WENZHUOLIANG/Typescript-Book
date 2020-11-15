@@ -29,8 +29,10 @@
 * [Compiling the Entire Project / Multiple Files](the-typescript-compiler-and-its-configuration/compiling-the-entire-project-multiple-files.md)
 * [Including & Excluding Files](the-typescript-compiler-and-its-configuration/including-and-excluding-files.md)
 * [Setting a Compilation Target](the-typescript-compiler-and-its-configuration/setting-a-compilation-target.md)
+* [Understanding Typescript Core Libs](the-typescript-compiler-and-its-configuration/understanding-typescript-core-libs.md)
 
 ---
 
-* [Understanding Typescript Core Libs](understanding-typescript-core-libs.md)
+* [More Configuration & Compilation Options](more-configuration-and-compilation-options.md)
+* [Working with Source Maps](working-with-source-maps.md)
 
