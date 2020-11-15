@@ -30,3 +30,7 @@
 * [Including & Excluding Files](the-typescript-compiler-and-its-configuration/including-and-excluding-files.md)
 * [Setting a Compilation Target](the-typescript-compiler-and-its-configuration/setting-a-compilation-target.md)
 
+---
+
+* [Understanding Typescript Core Libs](understanding-typescript-core-libs.md)
+
